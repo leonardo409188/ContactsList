@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 1611802849168,
+      "name": "Leonardo Silva",
+      "phoneNumber": "(54) 99934-7931",
+      "city": "Snanduva"
+    },
+    {
+      "id": 1611802865803,
+      "name": "Aline ",
+      "phoneNumber": "(54) 99934-8952",
+      "city": "Carazinho"
+    },
+    {
+      "id": 1611802884285,
+      "name": "Ricardo Noll",
+      "phoneNumber": "(54) 99978-9642",
+      "city": "Carazinho"
+    },
+    {
+      "id": 1611802920502,
+      "name": "Odete Maria da Silva",
+      "phoneNumber": "(54) 99978-8344",
+      "city": "Passo Fundo"
+    }
+  ]
+}
